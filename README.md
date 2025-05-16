@@ -2,7 +2,7 @@
 
 Step by step guide to build binaries for latest version:
 
-# 1. Create fork by clicking `Fork` button on the top right
+# 1. Create fork by clicking `Fork` button on the top right (This)
 
 ![step1a](images/step1a.png)
 ![step1b](images/step1b.png)
